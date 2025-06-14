@@ -25,10 +25,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <SupportUrl>https://github.com/FN-FAL113/csgo-server-picker</SupportUrl>
-    <ErrorReportUrl>https://github.com/FN-FAL113/csgo-server-picker/issues</ErrorReportUrl>
-    <ProductName>CSGO Server Picker</ProductName>
-    <PublisherName>FN-FAL113</PublisherName>
+    <ProductName>Deadlock Server Picker</ProductName>
+    <PublisherName>FN-FAL113, HardcoreMagazine</PublisherName>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>

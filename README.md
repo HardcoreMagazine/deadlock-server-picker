@@ -1,6 +1,8 @@
 # Deadlock Server Picker
 A lightweight server picker for Deadlock. Fork of https://github.com/FN-FAL113/cs2-server-picker
 
+## [Download](https://github.com/HardcoreMagazine/deadlock-server-picker/releases/download/%231/Release.zip)
+
 ## ⚙️ Requirements
 - Windows 10 or above
 - Works on Windows 8.1 but requires [.NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer) to be installed separately.
