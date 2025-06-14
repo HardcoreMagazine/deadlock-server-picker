@@ -1,36 +1,5 @@
-# Counter Strike 2 Server Picker
-<div align="center">
-
-  <a href="https://api.github.com/repositories/649341649/releases"><img src="https://img.shields.io/github/downloads/FN-FAL113/cs2-server-picker/total.svg"/></a>
-  <img src="https://img.shields.io/github/license/FN-FAL113/cs2-server-picker"/>
-  <img src="https://img.shields.io/github/v/release/FN-FAL113/cs2-server-picker"/>
-  <img src="https://img.shields.io/github/stars/FN-FAL113/cs2-server-picker"/>
-
-</div>
-A lightweight server picker for CS2. Previously developed for CS:GO and now for CS2! All regions available are included for freedom of selection. Still showing passion for the game since I started playing way back 2013.
-
-## ⬇️ Download
-### [Releases](https://github.com/FN-FAL113/csgo-server-picker/releases)
-
-## 📷 Screenshot
-![CS2ServerPicker](https://github.com/user-attachments/assets/e5c7c2a7-c560-4826-bcd5-9540d66abec6)
-![Demo.gif](https://github.com/FN-FAL113/cs2-server-picker/assets/88238718/a46e515c-d591-49e2-ac98-f6f0088bf8eb)
-
-## 🧪 Test Result
-<details>
-  <summary>Test 1</summary>
-
-  ![Initial Setup](https://github.com/user-attachments/assets/3461718d-a33a-47f0-aef2-156ed76b5e1b)
-  ![In-Game Result](https://github.com/user-attachments/assets/e26bd22f-bd0c-4c70-891d-a5ae6f091e40)
-</details>
-
-<details>
-  <summary>Test 2</summary>
-  
-  ![Screenshot 2025-06-06 193216](https://github.com/user-attachments/assets/c15af912-d964-4461-b706-2a8bb0c2d00b)
-  ![20250606193344_1](https://github.com/user-attachments/assets/57ae9c7f-afca-42fa-b88a-9e77bca83570)
-  ![20250608195438_1](https://github.com/user-attachments/assets/d7ebd25f-6f17-414d-994f-f217b2d05864)
-</details>
+# Deadlock Server Picker
+A lightweight server picker for Deadlock. Fork of https://github.com/FN-FAL113/cs2-server-picker
 
 ## ⚙️ Requirements
 - Windows 10 or above
@@ -52,30 +21,14 @@ A lightweight server picker for CS2. Previously developed for CS:GO and now for 
 **4. Windows smartscreen detected unrecognized app/publisher<br>**
   - The app requires a registered publisher which costs a lot of money. Rest assured the app is safe and has been tested already with more than 10k downloads.
 
-![image](https://github.com/FN-FAL113/csgo-server-picker/assets/88238718/fe0af8a8-4195-457e-bbbf-3a772e7f646c)
-
 **5. I'm receiving frequent timeouts when a match is being confirmed<br>**
   - You may have blocked many servers, for optimal searching and relaying block only the necessary server relays.
 
 **6. Why windows only?<br>**
   - The app is written using VB.NET, and Windows platform still dominates the gaming scene due to better compatibility. [Steam Charts](https://store.steampowered.com/hwsurvey/) has great statistics on this.
 
-**7. Will this work for Deadlock?**
-  - CS2 and Deadlock servers utilize same server relay addresses. Although I haven't tested it, there is a high chance it will work for deadlock and some reddit posts have recommended this app, give it a shot 😉.
-
-## 📔 To Do
-- TBD
-
-## 💡 Contributors
-- @Mohamad82Bz (for testing out the app on EU Servers and providing necessary details)
-- contributors on pull requests and issue tracker
-- donors for heart-warming donations
+**7. Will this work for CS2?**
+  - CS2 and Deadlock servers DOES NOT exactly utilize same server relays. Best use original program for that purpose (see link at the top "_Fork of..._").
 
 ## 🔽 Disclaimer
-- This project or its author are not affiliated, associated, authorized, endorsed by valve, its affiliates or subsidiaries. Images, names and other form of trademark are registered to their respective owners.
-
-## 💖 Support the Project/Dev
-- I develop stuff for free with dedication and hard work. Sharing this project with fellow gamers or giving it a star is a huge sign of appreciation!</br>
-<a href="https://www.paypal.com/paypalme/fnfal113" target=_blank>
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" width="36%" />
-</a>
+- This project or its author are not affiliated, associated, authorized, endorsed by Valve, its affiliates or subsidiaries. Images, names and other form of trademark are registered to their respective owners.
